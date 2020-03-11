@@ -10,5 +10,5 @@ class Student < Teacher
     knowledge << String
   end
   
-  
+
 end
