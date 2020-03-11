@@ -13,6 +13,6 @@ class Student < Teacher
   def knowledge
     @knowledge
   end
-  
+
 
 end
